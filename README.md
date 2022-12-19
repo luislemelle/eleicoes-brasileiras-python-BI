@@ -11,8 +11,9 @@ Utilizei o Google Colab para abrir os respectivos arquivos, limpa-los, organizar
 
 Após isso transformei e agrupei alguns dados no Power BI e finalizei o painel abaixo:
 
-![image](https://user-images.githubusercontent.com/30326362/208343248-4525c4dd-11e8-4534-8f9e-0454b15d2c8e.png)
+![image](https://user-images.githubusercontent.com/30326362/208440736-27e7845b-f940-47b2-a33a-0461eb8fe86b.png)
+
 
 Link do painel:
-https://app.powerbi.com/view?r=eyJrIjoiYzZkODBlMjgtNjZmZS00MmRmLWFmZDktMGVhNjNlYTM4OGM5IiwidCI6ImFhNDk1ZjJjLWQzN2UtNGI1OC1hYjk1LWJmMDg3NGEzYWRiMiJ9
+https://app.powerbi.com/view?r=eyJrIjoiZGZjZmZhN2ItNTE3MC00ODFhLWFhMmMtN2E2Njc3NTBiNTM1IiwidCI6ImFhNDk1ZjJjLWQzN2UtNGI1OC1hYjk1LWJmMDg3NGEzYWRiMiJ9
 

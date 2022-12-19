@@ -13,3 +13,6 @@ Após isso transformei e agrupei alguns dados no Power BI e finalizei o painel a
 
 ![image](https://user-images.githubusercontent.com/30326362/208343248-4525c4dd-11e8-4534-8f9e-0454b15d2c8e.png)
 
+Link do painel:
+https://app.powerbi.com/view?r=eyJrIjoiYzZkODBlMjgtNjZmZS00MmRmLWFmZDktMGVhNjNlYTM4OGM5IiwidCI6ImFhNDk1ZjJjLWQzN2UtNGI1OC1hYjk1LWJmMDg3NGEzYWRiMiJ9
+
